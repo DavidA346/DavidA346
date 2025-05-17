@@ -12,5 +12,4 @@ I'm a Computer Science student at the University of California, Riverside, passi
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DavidA346&icon=0&color=0)](https://visitcount.itsvg.in)
-
-Thanks for stopping by! ⭐ If you find my projects helpful, consider giving them a star or reaching out — I'm always up for a good tech conversation.
+Thanks for stopping by! ⭐ If you find my projects helpful, consider giving them a star or reaching out!!
