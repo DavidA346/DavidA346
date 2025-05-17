@@ -1,4 +1,4 @@
-# Hi I am David Aispuro 👋
+# Hi I'm David Aispuro 👋
 # 💫 About Me:
 I'm a Computer Science student at the University of California, Riverside, passionate about building impactful software and exploring AI-powered applications. I am partcicularly inteteresed in Web Development, Aritfical Intelligence and IT.
 
